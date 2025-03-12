@@ -1,2 +1,1 @@
-# Car-Parking-Controller-System
-I have developed a car parking system on logic works 5, a project of Digital Logic and Design
+🚗 **Car Parking Controller System** – A project developed using LogicWorks 5 for Digital Logic Design. This system simulates a car parking controller, utilizing logic gates and sequential circuits to manage vehicle entry and exit efficiently. Ideal for students exploring practical applications of digital logic concepts in real-world scenarios. 🚦
